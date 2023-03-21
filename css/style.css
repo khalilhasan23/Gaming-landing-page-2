@@ -1,0 +1,14 @@
+.nav-ba{
+    background: rgba(0, 0, 0, 0) linear-gradient(45deg, #700877 0%, #ff2759 100%, #ff2759 100%) repeat scroll 0 0;
+
+}
+
+.nav-log{
+    height: 73px;
+}
+
+.nav-ito{
+    color: white;
+    font-weight: 500;
+
+}
