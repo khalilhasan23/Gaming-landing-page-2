@@ -24,3 +24,33 @@
     color: white;
     margin-left: 750px;
 }
+
+#fotico2{
+    color: #FFC107;
+}
+
+.sc21{
+    background: rgba(0, 0, 0, 0) linear-gradient(45deg, #700877 0%, #ff2759 100%, #ff2759 100%) repeat scroll 0 0;
+    width: 500px;
+    position: absolute;
+    margin-top: -210px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.sc22{
+    background-color: wheat;
+    width: 400px;
+    position: absolute;
+    margin-left: 70%;
+    margin-top: -162px;
+    border-radius:20px ;
+}
+
+.sc22p{
+    text-align: center;
+}
+
+.sc23im{
+    margin-left: 20px;
+}
