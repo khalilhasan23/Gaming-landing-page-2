@@ -12,3 +12,15 @@
     font-weight: 500;
 
 }
+
+.sc2img{
+    height: 900px;
+}
+
+.sc2p{
+    position: absolute;
+    text-align: center;
+    margin-top: -300px;
+    color: white;
+    margin-left: 750px;
+}
