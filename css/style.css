@@ -39,7 +39,7 @@
 }
 
 .sc22{
-    background-color: wheat;
+    background: rgba(0, 0, 0, 0) linear-gradient(45deg, #700877 0%, #ff2759 100%, #ff2759 100%) repeat scroll 0 0;
     width: 400px;
     position: absolute;
     margin-left: 70%;
@@ -49,8 +49,14 @@
 
 .sc22p{
     text-align: center;
+    color: wheat;
 }
 
 .sc23im{
     margin-left: 20px;
+}
+
+.sc3b{
+    background-image: url(../img/left_about_02-1.png);
+    background-repeat: no-repeat;
 }
