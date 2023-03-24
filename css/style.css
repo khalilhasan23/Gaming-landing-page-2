@@ -88,5 +88,26 @@
 }
 
 .sc4card{
+    background-color: white;
+}
+
+.sc4img{
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.sc4star{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sc4ios{
+    font-weight: 400;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 72px;
+    padding: 7px;
     
 }
