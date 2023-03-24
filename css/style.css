@@ -89,6 +89,7 @@
 
 .sc4card{
     background-color: white;
+    
 }
 
 .sc4img{
@@ -109,5 +110,19 @@
     border-style: solid;
     border-radius: 72px;
     padding: 7px;
-    
+
 }
+
+.sc4card:hover{
+    border-style: solid;
+    border-color: #ff2054;
+    border-width: 3px;
+
+}
+
+.card4p{
+    text-align: center;
+}
+
+
+
