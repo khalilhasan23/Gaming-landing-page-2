@@ -60,3 +60,33 @@
     background-image: url(../img/left_about_02-1.png);
     background-repeat: no-repeat;
 }
+
+
+.sc4b{
+    background-image: url(../img/09-Store-Shop_21.jpg);
+    
+}
+
+.sc41b{
+    background-color: #E6638E;
+    opacity: 0.8;
+}
+.sc4link{
+    color: white;
+    border-style: solid;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 1px;
+    transition: all .7s;
+}
+
+.sc4link:hover{
+    background-color: #ff2054;
+}
+
+.sc4card{
+    
+}
