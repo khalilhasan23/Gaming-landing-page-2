@@ -70,6 +70,7 @@
 .sc41b{
     background-color: #E6638E;
     opacity: 0.8;
+    height: 817px;
 }
 .sc4link{
     color: white;
@@ -89,7 +90,7 @@
 
 .sc4card{
     background-color: white;
-    
+    padding: 10px;
 }
 
 .sc4img{
