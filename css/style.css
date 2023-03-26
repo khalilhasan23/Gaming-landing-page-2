@@ -124,5 +124,19 @@
     text-align: center;
 }
 
+.sc5im{
+    background-image: url(../img/img-blog-5-555x450.jpg);
+    height: 450px;
+    width: 555px;
+}
+
+.sc5back{
+    background: rgba(0, 0, 0, 0) linear-gradient(45deg, #700877 0%, #ff2759 100%, #ff2759 100%) repeat scroll 0 0;
+    opacity: 0.7;
+    position: absolute;
+    width: 555px;
+    margin-top: 282px;
+}
+
 
 
