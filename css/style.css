@@ -139,5 +139,31 @@
     margin-top: 282px;
 }
 
+.sc6img{
+    background-image: url(../img/bg-joinus.jpg);
+
+}
+
+
+.sc6b{
+    background: rgba(0, 0, 0, 0) linear-gradient(45deg, #700877 0%, #ff2759 100%, #ff2759 100%) repeat scroll 0 0;
+    opacity: 0.7;
+    
+}
+
+.sc6li{
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 4px;
+    margin-left: 100px;
+}
+
 
 
