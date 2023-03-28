@@ -196,3 +196,23 @@
     display: inline-block;
     font-weight: 300;
 }
+
+.input-placeholder{
+    height: 50px;
+    border-radius: 23px;
+    width: 100%;
+    padding-left: 26px;
+    padding-right: 50px;
+    padding-top: 0px;
+    color: #888;
+    font-size: 16px;
+    font-weight: 300;
+    border: none;
+}
+
+.sc7submit{
+    position: absolute;
+    margin-left: -37px;
+    margin-top: 9px;
+    cursor: pointer;
+}
