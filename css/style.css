@@ -166,4 +166,33 @@
 }
 
 
+.sc7b{
+    background-color: #0C000E;
+}
 
+.sc7img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+
+.sc7log{
+    width: 95px;
+    margin-top: -18px;
+}
+
+.sc7a{
+    text-decoration: none;
+    color: #979797;
+    padding: 4px 14px 5px;
+    border: 1px solid #d7d7d7;
+    margin-right: 7px;
+    margin-bottom: 10px;
+    font-size: 14px!important;
+    border-radius: 15px;
+    display: inline-block;
+    font-weight: 300;
+}
