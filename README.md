@@ -4,4 +4,4 @@
 
 
 ## project screenshot
-![](https://github.com/khalilhasan23/Gaming-landing-page/blob/main/Screenshot.png)
+![](https://github.com/khalilhasan23/Gaming-landing-page-2/blob/main/screenshot.png)
