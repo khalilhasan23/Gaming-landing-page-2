@@ -1,6 +1,6 @@
 # Gaming-landing-page-2
 
-## [site demo](https://khalilhasan23.github.io/Gaming-landing-page/)
+## [site demo](https://khalilhasan23.github.io/Gaming-landing-page-2/)
 
 
 ## project screenshot
